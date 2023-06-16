@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvatarPlayer", "AvatarPlayer\AvatarPlayer.csproj", "{29A3E167-2BD1-4BD3-8797-A53ED9E83141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A3E167-2BD1-4BD3-8797-A53ED9E83141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A3E167-2BD1-4BD3-8797-A53ED9E83141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A3E167-2BD1-4BD3-8797-A53ED9E83141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A3E167-2BD1-4BD3-8797-A53ED9E83141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A06308E-3569-43D1-BD44-A2D3034D346B}
+	EndGlobalSection
+EndGlobal
